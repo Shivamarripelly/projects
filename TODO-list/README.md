@@ -14,7 +14,6 @@ This repository contains a simple and elegant Todo List web app built using Tail
 
 ## Screenshots
 
-![image]
 ![todolist](https://github.com/Shivamarripelly/projects/assets/132738329/10b13d67-8397-45f1-b9cd-e2e6e7cd1dea)
 
 
